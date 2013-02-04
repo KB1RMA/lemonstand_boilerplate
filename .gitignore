@@ -1,0 +1,19 @@
+﻿# .gitignore file to ignore core Lemonstand files so they are not tracked
+
+/index.php
+/boot.php
+/php.ini
+/config
+/controllers
+/downloadables
+/googlefeeds
+/init
+/logs
+/ls_file_cache
+/modules/*
+/phproad
+/temp
+/uploaded
+
+# Include custom modules here to be unignore
+#!/modules/eventlisting
