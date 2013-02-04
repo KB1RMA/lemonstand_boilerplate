@@ -4,4 +4,4 @@
 			'@css/main.css',
 			),	array( 'src_mode'=>true	)) 	?>
 
-		<script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+		<script src="<?= theme_resource_url('js/vendor/modernizr-2.6.2.min.js') ?>"></script>
