@@ -4,5 +4,7 @@ Starting boilerplate (based on HTML5 Boilerpate) I use for creating new Lemonsta
 
 ## Quick Requirements
 
-Under backdoor/cms/settings/config/ 'Enable file-based templates' must be set to on and path set to "{APP}/ls_templates". "Content file extension" set to .php
++ Under backdoor/cms/settings/config/ 'Enable file-based templates' must be set to on 
++ Path set to "{APP}/ls_templates". 
++ Content file extension" set to .php
 
