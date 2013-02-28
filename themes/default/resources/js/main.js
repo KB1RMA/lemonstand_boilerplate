@@ -4,7 +4,7 @@
 
 (function(window, undefined) {
 
-  /**
+	/**
 	 * Prepare variables for use in scope
 	 */
 
