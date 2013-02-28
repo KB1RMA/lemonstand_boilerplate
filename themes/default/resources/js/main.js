@@ -17,7 +17,7 @@
 	function init() {
 
   	
-    /**
+  	/**
   	 * Take placeholders in HTML5 form elements and convert if 
   	 * placeholder attribute isn't supported
   	 */
