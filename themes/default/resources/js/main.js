@@ -55,6 +55,9 @@
 	$(function() {
 		
 		init();
+		
+		// run init() when ajax is complete after lemonstand partial update	
+		window.addEvent('onAfterAjaxUpdate', function(event, element_id){ init(); });
 
 	});
 
